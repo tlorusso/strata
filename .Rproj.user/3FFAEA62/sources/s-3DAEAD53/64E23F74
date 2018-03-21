@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1521642702496.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1762015379",
+    "id" : "64E23F74",
+    "lastKnownWriteTime" : 1521643424,
+    "last_content_update" : 1521643424614,
+    "path" : "~/twist/strata/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "107,47",
+        "scrollLine" : "97"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
