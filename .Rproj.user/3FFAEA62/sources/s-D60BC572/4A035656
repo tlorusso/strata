@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "4279641884",
+    "hash" : "0",
     "id" : "4A035656",
     "lastKnownWriteTime" : 1521642701,
     "last_content_update" : 1521642701,
     "path" : "~/twist/strata/content/post/2015-07-23-r-rmarkdown.Rmd",
     "project_path" : "content/post/2015-07-23-r-rmarkdown.Rmd",
     "properties" : {
+        "cursorPosition" : "14,47",
+        "scrollLine" : "0"
     },
     "relative_order" : 1,
     "source_on_save" : false,

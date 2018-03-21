@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1762015379",
+    "hash" : "0",
     "id" : "64E23F74",
-    "lastKnownWriteTime" : 1521643424,
-    "last_content_update" : 1521643424614,
+    "lastKnownWriteTime" : 1521648681,
+    "last_content_update" : 1521648681462,
     "path" : "~/twist/strata/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "107,47",
-        "scrollLine" : "97"
+        "cursorPosition" : "70,26",
+        "scrollLine" : "70"
     },
     "relative_order" : 2,
     "source_on_save" : false,

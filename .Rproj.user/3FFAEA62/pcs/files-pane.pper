@@ -1,0 +1,9 @@
+{
+    "path" : "~/twist/strata",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
