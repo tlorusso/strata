@@ -6,10 +6,19 @@
     <description>Recent content in R Markdown on Strata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 23 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>test2222</title>
+      <link>/post/test2222/</link>
+      <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/test2222/</guid>
+      <description> This is just a furhter testpost </description>
+    </item>
     
     <item>
       <title>Hello R Markdown</title>
